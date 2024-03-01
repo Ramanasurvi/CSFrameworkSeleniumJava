@@ -10,7 +10,7 @@ public class ReadConfig {
 
 	Properties properties;
 
-	String path = "C:\\Users\\prach\\Desktop\\CS_AutomationFramework\\MyStoreV1\\Configuration\\config.properties";
+	String path = "C:\\Users\\91950\\Desktop\\eclipse-workspace\\CS_FrameworkSeleniumJava\\Configuration\\config.properties";
 
 	//constructor
 	public ReadConfig() {
